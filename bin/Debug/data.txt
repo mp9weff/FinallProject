@@ -1,0 +1,19 @@
+Main St
+3
+Ring, Gold, 2, 1200
+Pendant, Silver, 1, 500
+Necklace, Gold, 4, 2500
+Elm St
+2
+Ring, Platinum, 1, 2000
+Bracelet, Gold, 5, 3200
+Oak St
+4
+Pendant, Gold, 3, 1500
+Necklace, Silver, 2, 800
+Bracelet, Platinum, 3, 4800
+Earrings, Gold, 1, 900
+Pine St
+2
+Ring, Silver, 1, 200
+Earrings, Silver, 6, 80

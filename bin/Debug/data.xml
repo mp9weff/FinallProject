@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfJewelryStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <JewelryStore>
+    <Address>Main St</Address>
+    <Items>
+      <JewelryItem>
+        <Name>Ring</Name>
+        <Metal> Gold</Metal>
+        <Weight>2</Weight>
+        <Price>1200</Price>
+      </JewelryItem>
+      <JewelryItem>
+        <Name>Pendant</Name>
+        <Metal> Silver</Metal>
+        <Weight>1</Weight>
+        <Price>500</Price>
+      </JewelryItem>
+      <JewelryItem>
+        <Name>Necklace</Name>
+        <Metal> Gold</Metal>
+        <Weight>4</Weight>
+        <Price>2500</Price>
+      </JewelryItem>
+    </Items>
+  </JewelryStore>
+  <JewelryStore>
+    <Address>Elm St</Address>
+    <Items>
+      <JewelryItem>
+        <Name>Ring</Name>
+        <Metal> Platinum</Metal>
+        <Weight>1</Weight>
+        <Price>2000</Price>
+      </JewelryItem>
+      <JewelryItem>
+        <Name>Bracelet</Name>
+        <Metal> Gold</Metal>
+        <Weight>5</Weight>
+        <Price>3200</Price>
+      </JewelryItem>
+    </Items>
+  </JewelryStore>
+  <JewelryStore>
+    <Address>Oak St</Address>
+    <Items>
+      <JewelryItem>
+        <Name>Pendant</Name>
+        <Metal> Gold</Metal>
+        <Weight>3</Weight>
+        <Price>1500</Price>
+      </JewelryItem>
+      <JewelryItem>
+        <Name>Necklace</Name>
+        <Metal> Silver</Metal>
+        <Weight>2</Weight>
+        <Price>800</Price>
+      </JewelryItem>
+      <JewelryItem>
+        <Name>Bracelet</Name>
+        <Metal> Platinum</Metal>
+        <Weight>3</Weight>
+        <Price>4800</Price>
+      </JewelryItem>
+      <JewelryItem>
+        <Name>Earrings</Name>
+        <Metal> Gold</Metal>
+        <Weight>1</Weight>
+        <Price>900</Price>
+      </JewelryItem>
+    </Items>
+  </JewelryStore>
+  <JewelryStore>
+    <Address>Pine St</Address>
+    <Items>
+      <JewelryItem>
+        <Name>Ring</Name>
+        <Metal> Silver</Metal>
+        <Weight>1</Weight>
+        <Price>200</Price>
+      </JewelryItem>
+      <JewelryItem>
+        <Name>Earrings</Name>
+        <Metal> Silver</Metal>
+        <Weight>6</Weight>
+        <Price>80</Price>
+      </JewelryItem>
+    </Items>
+  </JewelryStore>
+</ArrayOfJewelryStore>
